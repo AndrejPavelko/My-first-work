@@ -1,3 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Flat-Style-Business-Template.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cherry+Swash&display=swap" rel="stylesheet">
+    <link href="https://allfont.ru/allfont.css?fonts=helvetica_condenced-normal" rel="stylesheet" type="text/css" />
+    <title>Flat-Style-Business</title>
+</head>
+<body>
+    <head class="header">
+       <div class="header_content">
+        <div class="logo">
+            <h1 class="logo_type">Black Sea</h1>
+        </div>
+        <div class="menu">
+            <nav class="nav">
+                <a href="#" class="items">
+                    <ul class="">Menu   <b class="cosai">/</b></ul>
+                </a>
+                <a href="#" class="items">
+                    <ul class="">About me   <b class="cosai">/</b></ul>
+                </a>
+                <a href="#" class="items">
+                    <ul class="">Portfolio   <b class="cosai">/</b></ul>
+                </a>
+                <a href="#" class="items">
+                    <ul class="">Contact me</ul>
+                </a>
+            </nav>
+        </div>
+    </div>
+    </head>
+    <div class="content">
+        <div class="conteiner">
+            <div class="contented">
+
+            <div class="head_item">
+                <h2 class="item">We need the tonic of <br>wildness</h2>
+            </div>
+        <div class="btn1">
+            <a class="button " href="#" class="btn">Reade more</a>
+        </div>
+
+        <ul class="togle">
+            <li></li>
+            <li></li>
+            <li class="active"></li>
+            <li></li>
+            <li></li>
+        </ul>
+
+        </div>
+
+        </div>
+    </div>
+
+    <div class="explors">
+        <section class="section">
+            <div class="head1">
+                <h3 class="header1">At the same time that we areearnest to explor<br> & learn all things </h3>
+                    <p class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text<br> ever since the 1500s,
+                         when an unknown printer took a galley of type<br> and scrambled it to make a type specimen book.
+                        </p>
+               
+            </div>
+            <div class="images_content">
+            <div class="images">
+                <a href="#"><img  class="image" src="images/images/2.png" alt="Корзина"></a>
+                <a href="#"><img  class="image" src="images/images/3.png" alt="Земля" ></a>
+                <a href="#"><img  class="image" src="images/images/4.png" alt="Портфель"></a>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <div class="portfolio">
+        <div class="section">
+            <div class="content3">
+            <div class="folio">
+                <img class="photo2" src="images/images/5.png" alt="">
+            </div>
+            <div class="text3">
+                <h3 class="b">Dhavan</h3>
+                <h4 class="big">,,</h4>
+            </div>
+        </div>
+
+            <p class="text1">
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                Lorem Ipsum has been the industry's<br> standard dummy text ever since the 1500s, 
+                when an unknown printer took a galley of type and scrambled it to 
+                a type<br> specimen book. It has survived not only five centuries, but also the leap 
+                into electronic typesetting
+            </p>
+        </div>
+    </div>
+
+
+    <div class="map">
+        <div class="section">
+            <map name="map1">
+                
+                <form class="form1">
+                  <input class="input1" type="name" name="Namme" value="" placeholder="Name">
+                  <input class="input1" type="email" name="email" value="" placeholder="email address">
+                  <input class="input2" type="message" name="message" value="" placeholder="Message">
+                </form>
+            
+                <area shape="rect" coords="25,36,114,98" href="" alt="">
+                
+            </map>
+        </div>
+    </div>
+
+    
+    <footer class="footer1">
+        <span>Copyright &copy;  2022 Css Author.com</span>
+    </footer>
+        
+    
+</body>
+</html>
+
+
+
 *,body{
     margin: 0;
     padding: 0;
